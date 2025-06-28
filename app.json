@@ -8,19 +8,19 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "CU4iDQCC#cnX_lR834d1HLqoBh04YVb9N4rmwwL9AwuGfBmbVIuE",
+      "description": "TZhW2L4T#I34RT1u4nR2icIWM5xfh3KEcNGN_R07noMw2r30Q8dI",
       "required": true,
       "value": ""
     },  
     
     "OWNER_NUMBER": {
-      "description": "Set your owner number",
+      "description": "67076487143",
       "required": true,
       "value": "67076487143"
     },
 
     "DEV": {
-      "description": "Bot Developer Numeber",
+      "description": "67076487143",
       "required": true,
       "value": "67076487143"
     },
