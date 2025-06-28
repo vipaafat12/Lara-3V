@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "CU4iDQCC#cnX_lR834d1HLqoBh04YVb9N4rmwwL9AwuGfBmbVIuE",
       "required": true,
       "value": ""
     },  
@@ -16,13 +16,13 @@
     "OWNER_NUMBER": {
       "description": "Set your owner number",
       "required": true,
-      "value": "94779062397"
+      "value": "67076487143"
     },
 
     "DEV": {
       "description": "Bot Developer Numeber",
       "required": true,
-      "value": "94779062397"
+      "value": "67076487143"
     },
     
     "PREFIX": {
